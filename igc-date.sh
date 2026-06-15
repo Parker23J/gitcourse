@@ -1,1 +1,1 @@
-grep ^HFDTE flights/0144f5b1.igc | cut -c 6-
+grep ^HFDTE $1 | cut -c 6-
